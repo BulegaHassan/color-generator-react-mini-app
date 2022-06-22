@@ -2,7 +2,7 @@
 ## A color generator react app 
 ### Hosted Project
 
-color-generator app on netlify](https://color-generator-react-by-hb27.netlify.app/)
+[color-generator app on netlify](https://color-generator-react-by-hb27.netlify.app/)
 
 #### Setup
 
